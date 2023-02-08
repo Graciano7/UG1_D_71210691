@@ -1,0 +1,5 @@
+print ('==========Kasir========')
+HargaBrg=str(input('Harga Barang : '))
+Belibaranglagi = int(input('Apakah anda membeli barang lagi? [yes/no] : '))
+TotalBelanja =int(HargaBarang)
+Belibaranglagi=input('Apakah anda membeli barang lagi? Pilih yes Jika iya, pilih No Jika tidak(yes/no) = ')
